@@ -1,0 +1,11 @@
+package pract;
+
+import java.net.InetAddress;
+
+public class Practise17 {
+
+	public static void main(String[] args) {
+	
+		
+	}
+}

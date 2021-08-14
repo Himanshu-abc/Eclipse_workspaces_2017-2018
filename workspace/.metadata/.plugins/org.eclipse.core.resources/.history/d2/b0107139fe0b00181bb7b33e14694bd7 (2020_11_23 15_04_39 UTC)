@@ -1,0 +1,46 @@
+package byHimanshu;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+
+public class Dcoder {
+
+	public static void main(String[] args) {
+		
+		 String name="john";
+		 String password="qwerty";
+		 String email="john@email.com";
+		 String country="america";
+		 
+		 String url="jdbc:oracle:thin:@localhost:1521:xe";
+		 
+		 try {
+			 
+			 Class.forName("oracle.jdbc.OracleDriver");
+			 
+			 Connection con=DriverManager.getConnection(url,"system","apocalypse");
+			 
+			 PreparedStatement pst=con.prepareStatement("insert into user905 (name,password,email,country) values (?,?,?,?)");
+			 
+			 pst.setString(1, name);
+			 pst.setString(2, password);
+			 pst.setString(3, email);
+			 pst.setString(4, country);
+			 
+			 int r=pst.executeUpdate();
+			 
+			 if(r>0) {
+				 System.out.println(r+" rows updated");
+			 }
+			 
+			 pst.close();
+			 con.close();
+			 
+		 }catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}

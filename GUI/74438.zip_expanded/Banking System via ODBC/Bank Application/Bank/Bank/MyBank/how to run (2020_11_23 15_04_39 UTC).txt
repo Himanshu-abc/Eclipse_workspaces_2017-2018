@@ -1,0 +1,8 @@
+How to run:(Since it has a database{MS Access},establish your connectivity same as we do an ODBC connection for any other database.
+
+
+1. Its very simple to run the document if u have just installed java in your system.
+2.Now in your command prompt just give the set path of your jdk -bin file 
+3.After doing it, give the path where you have saved the file in the command prompt.
+4.Then type javac Bank.java to compile
+5.Then type java Bank to execute it.

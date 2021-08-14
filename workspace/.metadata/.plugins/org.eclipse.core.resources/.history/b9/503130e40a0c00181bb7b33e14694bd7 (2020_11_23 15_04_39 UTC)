@@ -1,0 +1,31 @@
+package byHimanshu;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Dao {
+
+	public static Connection getConnection() {
+		
+		String Driver="oracle.jdbc.OracleDriver";
+		String url="jdbc:oracle:thin:@localhost:1521:xe";
+		String user="system";
+		String password="apocalypse";
+		
+		Connection con=null;
+		
+		try {
+			
+		Class.forName(Driver);
+		
+		con=DriverManager.getConnection(url, user, password);
+			
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+		return con;
+	}
+	public static void search() {
+		
+	}
+}

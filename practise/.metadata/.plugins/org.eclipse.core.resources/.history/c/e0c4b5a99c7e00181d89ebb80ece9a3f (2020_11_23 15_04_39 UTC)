@@ -1,0 +1,32 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		// lowest common multiple
+		
+		System.out.println("enter two numbers");
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int n1=sc.nextInt();
+		int n2=sc.nextInt();
+		
+		int min=Math.min(n1, n2);
+		int max=Math.max(n1, n2);
+		int x=0,lcm=0;
+		
+		for(int i=1;i<min;i++) {
+			
+			x=max*i;
+			if(x%min==0) {
+				lcm=x;
+				break;
+			}
+		}
+		System.out.println("lcm is "+lcm);
+	}
+	}

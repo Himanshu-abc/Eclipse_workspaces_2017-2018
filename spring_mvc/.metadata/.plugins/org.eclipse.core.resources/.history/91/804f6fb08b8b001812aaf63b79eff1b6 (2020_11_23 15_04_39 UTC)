@@ -1,0 +1,17 @@
+package com.app.entity;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class Controler {
+
+	@RequestMapping("/form")
+	public ModelAndView function() {
+		
+		ModelAndView mav=new ModelAndView("form");
+		mav.addObject("message","this is admission form");
+		return mav;
+	}
+}

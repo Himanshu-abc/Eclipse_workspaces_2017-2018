@@ -1,0 +1,20 @@
+package pract;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class First1 {
+
+	public static void main(String[] args) {
+	
+		String OSname=System.getProperty("OS.name");
+		System.out.println(OSname);
+		
+		try {
+			String IP=InetAddress.getLocalHost().getHostAddress();
+		} catch (UnknownHostException e) {
+			
+			e.printStackTrace();
+		}
+	}
+}

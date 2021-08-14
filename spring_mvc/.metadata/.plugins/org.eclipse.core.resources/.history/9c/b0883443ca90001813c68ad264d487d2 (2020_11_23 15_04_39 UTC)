@@ -1,0 +1,10 @@
+package com.app.entity;
+
+public class City {
+	
+	private String cityValue;
+	private String cityCode;
+	
+	
+
+}

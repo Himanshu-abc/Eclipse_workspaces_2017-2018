@@ -1,0 +1,10 @@
+127.0.0.1 - - [10/Mar/2018:14:17:26 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:17:32 +0530] "GET /g20_Global_Exception_Handling/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:17:32 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:17:38 +0530] "GET /g20_Global_Exception_Handling/StudentForm HTTP/1.1" 500 286
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:18:19 +0530] "GET /g20_Global_Exception_Handling/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:18:19 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [10/Mar/2018:14:18:46 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:18:51 +0530] "GET /g20_Global_Exception_Handling/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:18:51 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:14:19:00 +0530] "GET /g20_Global_Exception_Handling/StudentForm HTTP/1.1" 500 286

@@ -1,0 +1,21 @@
+
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet implementation class Profile
+ */
+@WebServlet("/Profile")
+public class Profile extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Profile() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+}

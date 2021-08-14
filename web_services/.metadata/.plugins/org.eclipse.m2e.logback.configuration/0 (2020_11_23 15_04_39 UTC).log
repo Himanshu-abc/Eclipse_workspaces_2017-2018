@@ -1,0 +1,1119 @@
+2018-03-12 19:37:08,596 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.26/jersey-quickstart-webapp-2.26.jar
+2018-03-12 19:37:08,995 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.26/jersey-quickstart-webapp-2.26.jar
+2018-03-12 19:37:09,399 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.26/jersey-quickstart-webapp-2.26.pom
+2018-03-12 19:37:10,164 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.26/jersey-quickstart-webapp-2.26.pom
+2018-03-12 19:38:10,411 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml
+2018-03-12 19:38:14,293 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.26/jersey-bom-2.26.pom
+2018-03-12 19:38:15,281 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.26/jersey-bom-2.26.pom
+2018-03-12 19:38:15,694 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2018-03-12 19:38:16,103 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2018-03-12 19:38:21,598 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2018-03-12 19:38:23,155 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2018-03-12 19:38:24,334 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2018-03-12 19:38:24,767 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2018-03-12 19:38:28,009 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2018-03-12 19:38:28,382 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2018-03-12 19:38:28,746 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2018-03-12 19:38:29,091 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2018-03-12 19:38:29,499 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2018-03-12 19:38:29,902 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2018-03-12 19:38:30,259 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2018-03-12 19:38:30,722 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2018-03-12 19:38:31,169 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2018-03-12 19:38:31,559 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2018-03-12 19:38:31,946 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2018-03-12 19:38:32,359 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2018-03-12 19:38:32,685 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2018-03-12 19:38:33,068 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2018-03-12 19:38:33,499 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2018-03-12 19:38:34,004 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2018-03-12 19:38:34,370 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2018-03-12 19:38:34,714 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2018-03-12 19:38:35,040 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2018-03-12 19:38:35,564 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2018-03-12 19:38:36,291 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 19:38:38,892 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26.pom
+2018-03-12 19:38:39,282 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26.pom
+2018-03-12 19:38:39,627 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.26/project-2.26.pom
+2018-03-12 19:38:39,986 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.26/project-2.26.pom
+2018-03-12 19:38:40,503 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.26/project-2.26.pom
+2018-03-12 19:38:41,330 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.26/project-2.26.pom
+2018-03-12 19:38:41,714 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.5.0-b42/hk2-bom-2.5.0-b42.pom
+2018-03-12 19:38:42,048 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.5.0-b42/hk2-bom-2.5.0-b42.pom
+2018-03-12 19:38:42,410 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42.pom
+2018-03-12 19:38:42,798 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42.pom
+2018-03-12 19:38:43,154 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.5.0-b42/external-2.5.0-b42.pom
+2018-03-12 19:38:43,504 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.5.0-b42/external-2.5.0-b42.pom
+2018-03-12 19:38:43,854 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.5.0-b42/hk2-parent-2.5.0-b42.pom
+2018-03-12 19:38:44,514 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.5.0-b42/hk2-parent-2.5.0-b42.pom
+2018-03-12 19:38:44,921 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.pom
+2018-03-12 19:38:45,283 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.pom
+2018-03-12 19:38:46,273 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1.pom
+2018-03-12 19:38:46,793 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1.pom
+2018-03-12 19:38:47,155 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2018-03-12 19:38:47,530 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2018-03-12 19:38:47,894 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2018-03-12 19:38:48,271 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2018-03-12 19:38:48,608 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2018-03-12 19:38:48,994 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2018-03-12 19:38:49,349 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.pom
+2018-03-12 19:38:49,694 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.pom
+2018-03-12 19:38:50,033 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26.pom
+2018-03-12 19:38:50,395 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26.pom
+2018-03-12 19:38:50,755 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26.pom
+2018-03-12 19:38:51,091 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26.pom
+2018-03-12 19:38:51,418 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.26/project-2.26.pom
+2018-03-12 19:38:51,761 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.26/project-2.26.pom
+2018-03-12 19:38:52,170 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26.pom
+2018-03-12 19:38:52,538 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26.pom
+2018-03-12 19:38:52,879 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/project/2.26/project-2.26.pom
+2018-03-12 19:38:53,374 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/project/2.26/project-2.26.pom
+2018-03-12 19:38:53,710 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42.pom
+2018-03-12 19:38:54,085 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42.pom
+2018-03-12 19:38:54,478 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42.pom
+2018-03-12 19:38:54,849 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42.pom
+2018-03-12 19:38:55,189 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42.pom
+2018-03-12 19:38:55,526 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42.pom
+2018-03-12 19:38:55,857 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2018-03-12 19:38:56,270 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2018-03-12 19:38:56,596 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42.pom
+2018-03-12 19:38:56,949 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42.pom
+2018-03-12 19:38:57,293 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2.pom
+2018-03-12 19:38:57,638 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2.pom
+2018-03-12 19:38:58,011 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26.jar
+2018-03-12 19:38:58,527 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26.jar
+2018-03-12 19:38:58,850 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42.jar
+2018-03-12 19:38:59,188 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42.jar
+2018-03-12 19:38:59,526 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.jar
+2018-03-12 19:39:03,460 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26.jar
+2018-03-12 19:39:03,788 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2018-03-12 19:39:04,180 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2018-03-12 19:39:04,560 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2018-03-12 19:39:04,960 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2018-03-12 19:39:05,354 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar
+2018-03-12 19:39:11,610 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26.jar
+2018-03-12 19:39:11,976 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26.jar
+2018-03-12 19:39:13,499 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26.jar
+2018-03-12 19:39:13,833 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26.jar
+2018-03-12 19:39:14,348 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26.jar
+2018-03-12 19:39:14,715 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1.jar
+2018-03-12 19:39:15,533 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1.jar
+2018-03-12 19:39:15,912 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26.jar
+2018-03-12 19:39:16,347 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26.jar
+2018-03-12 19:39:16,748 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42.jar
+2018-03-12 19:39:17,514 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42.jar
+2018-03-12 19:39:17,917 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42.jar
+2018-03-12 19:39:18,269 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42.jar
+2018-03-12 19:39:18,630 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42.jar
+2018-03-12 19:39:19,583 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42.jar
+2018-03-12 19:39:19,932 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2018-03-12 19:39:20,281 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2018-03-12 19:39:20,625 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42.jar
+2018-03-12 19:39:21,415 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42.jar
+2018-03-12 19:39:21,803 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2.jar
+2018-03-12 19:39:25,948 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2.jar
+2018-03-12 19:39:30,776 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /t1_deomRest_jersey/src/main/java
+2018-03-12 19:39:30,777 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /t1_deomRest_jersey/src/main/resources
+2018-03-12 19:39:30,783 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /t1_deomRest_jersey/src/test/java
+2018-03-12 19:39:34,058 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26-sources.jar
+2018-03-12 19:39:34,146 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 83 sec
+2018-03-12 19:39:35,317 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26-sources.jar
+2018-03-12 19:39:36,170 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:39:36,178 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 19:39:36,183 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:39:36,183 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 19:39:36,215 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-servlet-core:2.26
+2018-03-12 19:39:36,620 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26-javadoc.jar
+2018-03-12 19:39:37,500 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.26/jersey-container-servlet-core-2.26-javadoc.jar
+2018-03-12 19:39:37,922 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.containers:jersey-container-servlet-core:2.26
+2018-03-12 19:39:38,327 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42-sources.jar
+2018-03-12 19:39:38,723 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42-sources.jar
+2018-03-12 19:39:38,958 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2.external:javax.inject:2.5.0-b42
+2018-03-12 19:39:39,372 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42-javadoc.jar
+2018-03-12 19:39:39,974 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b42/javax.inject-2.5.0-b42-javadoc.jar
+2018-03-12 19:39:40,188 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2.external:javax.inject:2.5.0-b42
+2018-03-12 19:39:40,620 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26-sources.jar
+2018-03-12 19:39:45,404 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26-sources.jar
+2018-03-12 19:39:45,592 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-common:2.26
+2018-03-12 19:39:45,997 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26-javadoc.jar
+2018-03-12 19:39:47,372 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.26/jersey-common-2.26-javadoc.jar
+2018-03-12 19:39:47,544 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-common:2.26
+2018-03-12 19:39:47,929 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar
+2018-03-12 19:39:48,409 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar
+2018-03-12 19:39:48,577 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.annotation:javax.annotation-api:1.2
+2018-03-12 19:39:49,002 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-javadoc.jar
+2018-03-12 19:39:49,631 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-javadoc.jar
+2018-03-12 19:39:49,844 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.annotation:javax.annotation-api:1.2
+2018-03-12 19:39:50,198 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-sources.jar
+2018-03-12 19:39:50,602 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-sources.jar
+2018-03-12 19:39:50,778 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:osgi-resource-locator:1.0.1
+2018-03-12 19:39:51,159 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-javadoc.jar
+2018-03-12 19:39:51,663 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-javadoc.jar
+2018-03-12 19:39:51,766 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:osgi-resource-locator:1.0.1
+2018-03-12 19:39:52,101 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26-sources.jar
+2018-03-12 19:39:55,927 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26-sources.jar
+2018-03-12 19:39:56,056 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-server:2.26
+2018-03-12 19:39:56,428 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26-javadoc.jar
+2018-03-12 19:40:01,720 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.26/jersey-server-2.26-javadoc.jar
+2018-03-12 19:40:01,855 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-server:2.26
+2018-03-12 19:40:02,188 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26-sources.jar
+2018-03-12 19:40:02,962 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26-sources.jar
+2018-03-12 19:40:03,067 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-client:2.26
+2018-03-12 19:40:03,485 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26-javadoc.jar
+2018-03-12 19:40:04,663 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.26/jersey-client-2.26-javadoc.jar
+2018-03-12 19:40:05,081 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-client:2.26
+2018-03-12 19:40:05,459 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26-sources.jar
+2018-03-12 19:40:05,997 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26-sources.jar
+2018-03-12 19:40:06,111 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-jaxb:2.26
+2018-03-12 19:40:06,656 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26-javadoc.jar
+2018-03-12 19:40:07,433 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.26/jersey-media-jaxb-2.26-javadoc.jar
+2018-03-12 19:40:07,544 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.media:jersey-media-jaxb:2.26
+2018-03-12 19:40:07,915 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar
+2018-03-12 19:40:08,511 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar
+2018-03-12 19:40:08,767 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:1.1.0.Final
+2018-03-12 19:40:09,101 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-javadoc.jar
+2018-03-12 19:40:10,890 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-javadoc.jar
+2018-03-12 19:40:10,978 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.validation:validation-api:1.1.0.Final
+2018-03-12 19:40:11,784 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1-sources.jar
+2018-03-12 19:40:12,677 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1-sources.jar
+2018-03-12 19:40:12,990 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:javax.ws.rs-api:2.1
+2018-03-12 19:40:13,341 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1-javadoc.jar
+2018-03-12 19:40:16,639 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1-javadoc.jar
+2018-03-12 19:40:16,856 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.ws.rs:javax.ws.rs-api:2.1
+2018-03-12 19:40:17,267 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26-sources.jar
+2018-03-12 19:40:17,781 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26-sources.jar
+2018-03-12 19:40:17,912 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.inject:jersey-hk2:2.26
+2018-03-12 19:40:18,312 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26-javadoc.jar
+2018-03-12 19:40:19,152 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/2.26/jersey-hk2-2.26-javadoc.jar
+2018-03-12 19:40:19,368 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.inject:jersey-hk2:2.26
+2018-03-12 19:40:19,756 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42-sources.jar
+2018-03-12 19:40:20,343 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42-sources.jar
+2018-03-12 19:40:20,582 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-locator:2.5.0-b42
+2018-03-12 19:40:21,077 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:22,102 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b42/hk2-locator-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:22,523 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-locator:2.5.0-b42
+2018-03-12 19:40:22,879 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42-sources.jar
+2018-03-12 19:40:23,491 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42-sources.jar
+2018-03-12 19:40:23,591 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b42
+2018-03-12 19:40:23,970 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:25,240 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b42/aopalliance-repackaged-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:25,490 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b42
+2018-03-12 19:40:25,890 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42-sources.jar
+2018-03-12 19:40:27,615 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42-sources.jar
+2018-03-12 19:40:27,923 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-api:2.5.0-b42
+2018-03-12 19:40:28,300 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:33,759 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b42/hk2-api-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:33,957 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-api:2.5.0-b42
+2018-03-12 19:40:34,325 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar
+2018-03-12 19:40:34,789 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar
+2018-03-12 19:40:34,914 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.inject:javax.inject:1
+2018-03-12 19:40:35,287 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1-javadoc.jar
+2018-03-12 19:40:35,747 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1-javadoc.jar
+2018-03-12 19:40:35,880 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.inject:javax.inject:1
+2018-03-12 19:40:36,279 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42-sources.jar
+2018-03-12 19:40:36,845 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42-sources.jar
+2018-03-12 19:40:37,046 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-utils:2.5.0-b42
+2018-03-12 19:40:37,395 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:38,183 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b42/hk2-utils-2.5.0-b42-javadoc.jar
+2018-03-12 19:40:38,630 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-utils:2.5.0-b42
+2018-03-12 19:40:39,249 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2-sources.jar
+2018-03-12 19:40:40,487 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2-sources.jar
+2018-03-12 19:40:40,692 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.22.0-CR2
+2018-03-12 19:40:41,020 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2-javadoc.jar
+2018-03-12 19:40:41,063 [Worker-31] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.javassist:javassist:3.22.0-CR2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.javassist:javassist:jar:javadoc:3.22.0-CR2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:264) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:252) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:217) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 19:40:41,069 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-servlet-core:2.26
+2018-03-12 19:40:41,071 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.containers:jersey-container-servlet-core:2.26
+2018-03-12 19:40:41,075 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2.external:javax.inject:2.5.0-b42
+2018-03-12 19:40:41,077 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2.external:javax.inject:2.5.0-b42
+2018-03-12 19:40:41,082 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-common:2.26
+2018-03-12 19:40:41,084 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-common:2.26
+2018-03-12 19:40:41,088 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.annotation:javax.annotation-api:1.2
+2018-03-12 19:40:41,093 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.annotation:javax.annotation-api:1.2
+2018-03-12 19:40:41,098 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:osgi-resource-locator:1.0.1
+2018-03-12 19:40:41,100 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:osgi-resource-locator:1.0.1
+2018-03-12 19:40:41,522 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:40:41,527 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 19:40:41,532 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:40:41,532 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 19:40:42,335 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-server:2.26
+2018-03-12 19:40:42,338 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-server:2.26
+2018-03-12 19:40:42,341 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-client:2.26
+2018-03-12 19:40:42,346 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.core:jersey-client:2.26
+2018-03-12 19:40:42,350 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-jaxb:2.26
+2018-03-12 19:40:42,352 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.media:jersey-media-jaxb:2.26
+2018-03-12 19:40:42,356 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:1.1.0.Final
+2018-03-12 19:40:42,358 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.validation:validation-api:1.1.0.Final
+2018-03-12 19:40:42,363 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:javax.ws.rs-api:2.1
+2018-03-12 19:40:42,365 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.ws.rs:javax.ws.rs-api:2.1
+2018-03-12 19:40:42,370 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.inject:jersey-hk2:2.26
+2018-03-12 19:40:42,372 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.inject:jersey-hk2:2.26
+2018-03-12 19:40:42,379 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-locator:2.5.0-b42
+2018-03-12 19:40:42,382 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-locator:2.5.0-b42
+2018-03-12 19:40:42,386 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b42
+2018-03-12 19:40:42,388 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b42
+2018-03-12 19:40:42,393 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-api:2.5.0-b42
+2018-03-12 19:40:42,397 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-api:2.5.0-b42
+2018-03-12 19:40:42,411 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.inject:javax.inject:1
+2018-03-12 19:40:42,416 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.inject:javax.inject:1
+2018-03-12 19:40:42,421 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-utils:2.5.0-b42
+2018-03-12 19:40:42,425 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.hk2:hk2-utils:2.5.0-b42
+2018-03-12 19:40:42,431 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.22.0-CR2
+2018-03-12 19:40:42,598 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:40:42,598 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 19:40:42,600 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:40:42,600 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 19:45:44,402 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:45:44,411 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 19:45:44,413 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:45:44,413 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 19:59:55,009 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:59:55,046 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 19:59:55,047 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 19:59:55,047 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:00:53,294 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:00:53,294 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:00:53,296 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:00:53,296 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:03:07,021 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:03:07,022 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:03:07,023 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:03:07,023 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:07:39,909 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:07:39,910 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:07:39,913 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:07:39,914 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:07:48,987 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @2353238ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-03-12 20:07:49,468 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.7.v20170914
+2018-03-12 20:07:49,497 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-03-12 20:07:49,497 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-03-12 20:07:49,500 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-03-12 20:07:49,567 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1891fc88{/help,null,AVAILABLE}
+2018-03-12 20:07:49,606 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2bf63505{HTTP/1.1,[http/1.1]}{127.0.0.1:59160}
+2018-03-12 20:07:49,606 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @2353857ms
+2018-03-12 20:08:15,945 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:08:15,946 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:08:15,948 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:08:15,948 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:08:39,316 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:08:39,317 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:08:39,318 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:08:39,319 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:08:53,366 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:08:53,367 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:08:53,368 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:08:53,368 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:13:45,342 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:13:45,343 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:13:45,345 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:13:45,346 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:15:35,035 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:15:35,036 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:15:35,037 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:15:35,038 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:16:07,700 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:16:07,700 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:16:07,702 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:16:07,702 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:18:04,161 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:18:04,161 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:18:04,163 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:18:04,163 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:19:14,190 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:19:14,190 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:19:14,194 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:19:14,194 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:21:26,402 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:21:26,403 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:21:26,404 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:21:26,404 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:21:54,394 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:21:54,395 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:21:54,397 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:21:54,397 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:26:17,990 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 20:26:30,787 [Worker-68] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.pom
+2018-03-12 20:26:33,742 [Worker-68] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.jar
+2018-03-12 20:26:36,140 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1-sources.jar
+2018-03-12 20:26:36,143 [Worker-69] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for javax.xml.bind:jaxb-api:2.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.xml.bind:jaxb-api:jar:sources:2.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:264) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:243) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:217) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 20:26:36,363 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1-javadoc.jar
+2018-03-12 20:26:36,366 [Worker-69] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for javax.xml.bind:jaxb-api:2.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.xml.bind:jaxb-api:jar:javadoc:2.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:264) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:252) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:217) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 20:26:37,460 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:26:37,473 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:26:37,475 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:26:37,476 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:26:37,476 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 20:26:37,542 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 20:26:37,547 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:26:38,765 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 20:26:39,618 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:26:39,620 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:26:39,622 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:26:39,623 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:26:39,623 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 20:26:39,623 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 20:26:39,628 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:02,622 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:02,623 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:27:02,624 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:02,624 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:27:43,231 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 20:27:44,000 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:44,002 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:27:44,004 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:44,004 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:27:44,005 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 20:27:44,005 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 20:27:44,010 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:45,529 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:45,530 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:27:45,531 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:27:45,531 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:29:23,327 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 20:29:24,382 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:24,385 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:29:24,387 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:24,388 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:29:24,388 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 20:29:24,388 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 20:29:24,394 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:25,226 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:25,227 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:29:25,228 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:25,228 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:29:28,505 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0-sources.jar
+2018-03-12 20:29:31,273 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0-sources.jar
+2018-03-12 20:29:31,716 [Worker-62] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.3.0
+2018-03-12 20:29:32,099 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0-javadoc.jar
+2018-03-12 20:29:37,533 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0-javadoc.jar
+2018-03-12 20:29:37,772 [Worker-62] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.xml.bind:jaxb-api:2.3.0
+2018-03-12 20:29:38,176 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:38,177 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:29:38,178 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:38,178 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:29:56,310 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:56,311 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:29:56,312 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:29:56,312 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:38:22,403 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:38:22,404 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:38:22,405 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:38:22,405 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:38:32,380 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:38:32,381 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:38:32,382 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:38:32,382 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:38:54,404 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:38:54,405 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:38:54,407 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:38:54,407 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:47:10,426 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:47:10,426 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:47:10,428 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:47:10,428 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:52:28,051 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:52:28,053 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:52:28,054 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:52:28,055 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:55:56,710 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:55:56,711 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:55:56,712 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:55:56,712 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:58:10,803 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:58:10,804 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:58:10,806 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:58:10,807 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 20:59:13,438 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:59:13,438 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 20:59:13,439 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 20:59:13,439 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:02:26,943 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:02:26,944 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:02:26,945 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:02:26,945 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:08:46,097 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:08:46,098 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:08:46,098 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:08:46,099 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:10:17,148 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:10:17,149 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:10:17,150 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:10:17,151 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:12:12,559 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:12:12,560 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:12:12,563 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:12:12,563 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:34:31,355 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:34:31,356 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:34:31,357 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:34:31,357 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:36:57,427 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:36:57,428 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:36:57,429 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:36:57,429 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:38:50,350 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:38:50,351 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:38:50,352 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:38:50,352 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:44:57,316 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:44:57,317 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:44:57,318 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:44:57,318 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:45:40,671 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:45:40,672 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:45:40,673 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:45:40,674 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:53:02,846 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:53:02,847 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:53:02,849 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:53:02,849 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:56:47,585 [Worker-120] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 21:56:52,893 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26.pom
+2018-03-12 21:56:53,250 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26.pom
+2018-03-12 21:56:53,622 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1.pom
+2018-03-12 21:56:54,071 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1.pom
+2018-03-12 21:56:54,420 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/json/1.1/json-1.1.pom
+2018-03-12 21:56:54,893 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/json/1.1/json-1.1.pom
+2018-03-12 21:56:55,278 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0.pom
+2018-03-12 21:56:55,726 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0.pom
+2018-03-12 21:56:56,065 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0.pom
+2018-03-12 21:56:56,863 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0.pom
+2018-03-12 21:56:57,210 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1.pom
+2018-03-12 21:56:57,639 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1.pom
+2018-03-12 21:56:58,007 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0.pom
+2018-03-12 21:56:58,805 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0.pom
+2018-03-12 21:56:59,180 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/36/weld-parent-36.pom
+2018-03-12 21:56:59,730 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/36/weld-parent-36.pom
+2018-03-12 21:57:00,041 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2018-03-12 21:57:00,440 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2018-03-12 21:57:00,782 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2018-03-12 21:57:01,603 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2018-03-12 21:57:02,083 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26.jar
+2018-03-12 21:57:03,327 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26.jar
+2018-03-12 21:57:03,663 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1.jar
+2018-03-12 21:57:05,010 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1.jar
+2018-03-12 21:57:05,428 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0.jar
+2018-03-12 21:57:08,672 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0.jar
+2018-03-12 21:57:09,038 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1.jar
+2018-03-12 21:57:09,985 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1.jar
+2018-03-12 21:57:10,342 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0.jar
+2018-03-12 21:57:11,627 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0.jar
+2018-03-12 21:57:11,933 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2018-03-12 21:57:14,336 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2018-03-12 21:57:15,251 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2018-03-12 21:57:16,741 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2018-03-12 21:57:17,024 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0.jar
+2018-03-12 21:57:18,861 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0.jar
+2018-03-12 21:57:35,997 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:57:36,000 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:57:36,003 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:57:36,003 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:57:36,004 [Worker-120] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 21:57:36,004 [Worker-120] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 21:57:36,012 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:57:37,475 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:57:37,476 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:57:37,478 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:57:37,479 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:57:39,613 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26-sources.jar
+2018-03-12 21:57:40,467 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26-sources.jar
+2018-03-12 21:57:40,717 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-json-binding:2.26
+2018-03-12 21:57:41,243 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26-javadoc.jar
+2018-03-12 21:57:43,067 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-binding/2.26/jersey-media-json-binding-2.26-javadoc.jar
+2018-03-12 21:57:43,764 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.media:jersey-media-json-binding:2.26
+2018-03-12 21:57:44,212 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1-sources.jar
+2018-03-12 21:57:47,551 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1-sources.jar
+2018-03-12 21:57:48,160 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:javax.json:1.1
+2018-03-12 21:57:48,628 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1-javadoc.jar
+2018-03-12 21:57:54,722 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.1/javax.json-1.1-javadoc.jar
+2018-03-12 21:57:55,284 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish:javax.json:1.1
+2018-03-12 21:57:55,683 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0-sources.jar
+2018-03-12 21:57:57,258 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0-sources.jar
+2018-03-12 21:57:57,756 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse:yasson:1.0
+2018-03-12 21:57:58,156 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0-javadoc.jar
+2018-03-12 21:58:05,748 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0/yasson-1.0-javadoc.jar
+2018-03-12 21:58:08,263 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.eclipse:yasson:1.0
+2018-03-12 21:58:08,892 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1-sources.jar
+2018-03-12 21:58:09,946 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1-sources.jar
+2018-03-12 21:58:10,836 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.json:javax.json-api:1.1
+2018-03-12 21:58:11,393 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1-javadoc.jar
+2018-03-12 21:58:13,508 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/javax.json-api/1.1/javax.json-api-1.1-javadoc.jar
+2018-03-12 21:58:14,055 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.json:javax.json-api:1.1
+2018-03-12 21:58:14,558 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0-sources.jar
+2018-03-12 21:58:15,687 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0-sources.jar
+2018-03-12 21:58:16,086 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.enterprise:cdi-api:2.0
+2018-03-12 21:58:16,530 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0-javadoc.jar
+2018-03-12 21:58:18,247 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/2.0/cdi-api-2.0-javadoc.jar
+2018-03-12 21:58:18,708 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.enterprise:cdi-api:2.0
+2018-03-12 21:58:19,341 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-sources.jar
+2018-03-12 21:58:20,000 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-sources.jar
+2018-03-12 21:58:20,230 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.el:javax.el-api:3.0.0
+2018-03-12 21:58:20,661 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-javadoc.jar
+2018-03-12 21:58:21,601 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-javadoc.jar
+2018-03-12 21:58:22,391 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.el:javax.el-api:3.0.0
+2018-03-12 21:58:22,930 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2-sources.jar
+2018-03-12 21:58:23,475 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2-sources.jar
+2018-03-12 21:58:23,805 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.interceptor:javax.interceptor-api:1.2
+2018-03-12 21:58:24,128 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2-javadoc.jar
+2018-03-12 21:58:24,753 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2-javadoc.jar
+2018-03-12 21:58:25,293 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.interceptor:javax.interceptor-api:1.2
+2018-03-12 21:58:25,633 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0-sources.jar
+2018-03-12 21:58:26,026 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0-sources.jar
+2018-03-12 21:58:26,229 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.json.bind:javax.json.bind-api:1.0
+2018-03-12 21:58:26,611 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0-javadoc.jar
+2018-03-12 21:58:27,942 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/json/bind/javax.json.bind-api/1.0/javax.json.bind-api-1.0-javadoc.jar
+2018-03-12 21:58:28,146 [Worker-121] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.json.bind:javax.json.bind-api:1.0
+2018-03-12 21:58:28,592 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 21:58:30,224 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26.pom
+2018-03-12 21:58:30,537 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26.pom
+2018-03-12 21:58:30,869 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.pom
+2018-03-12 21:58:31,295 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.pom
+2018-03-12 21:58:31,773 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.26/project-2.26.pom
+2018-03-12 21:58:32,144 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.26/project-2.26.pom
+2018-03-12 21:58:32,651 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4.pom
+2018-03-12 21:58:33,172 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4.pom
+2018-03-12 21:58:33,522 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4.pom
+2018-03-12 21:58:33,839 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4.pom
+2018-03-12 21:58:34,160 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4.pom
+2018-03-12 21:58:34,485 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4.pom
+2018-03-12 21:58:34,881 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26.jar
+2018-03-12 21:58:35,586 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26.jar
+2018-03-12 21:58:35,995 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.jar
+2018-03-12 21:58:36,800 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.jar
+2018-03-12 21:58:37,164 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4.jar
+2018-03-12 21:58:43,058 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4.jar
+2018-03-12 21:58:43,447 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4.jar
+2018-03-12 21:59:21,382 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4.jar
+2018-03-12 21:59:21,791 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4.jar
+2018-03-12 21:59:24,419 [Worker-126] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4.jar
+2018-03-12 21:59:25,882 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:25,884 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:59:25,885 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:25,886 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:59:25,886 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 21:59:25,886 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 21:59:25,891 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:28,263 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:28,266 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:59:28,267 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:28,268 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:59:31,611 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26-sources.jar
+2018-03-12 21:59:32,532 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26-sources.jar
+2018-03-12 21:59:32,675 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-moxy:2.26
+2018-03-12 21:59:33,087 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26-javadoc.jar
+2018-03-12 21:59:34,019 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.26/jersey-media-moxy-2.26-javadoc.jar
+2018-03-12 21:59:34,163 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.media:jersey-media-moxy:2.26
+2018-03-12 21:59:34,652 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26-sources.jar
+2018-03-12 21:59:35,743 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26-sources.jar
+2018-03-12 21:59:35,875 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.ext:jersey-entity-filtering:2.26
+2018-03-12 21:59:36,342 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26-javadoc.jar
+2018-03-12 21:59:38,024 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26-javadoc.jar
+2018-03-12 21:59:38,270 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.ext:jersey-entity-filtering:2.26
+2018-03-12 21:59:38,609 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4-sources.jar
+2018-03-12 21:59:41,634 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 21:59:42,638 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:42,673 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:59:42,674 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:42,675 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:59:42,675 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 21:59:42,675 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 21:59:42,680 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:43,030 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4-sources.jar
+2018-03-12 21:59:43,754 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.moxy:2.6.4
+2018-03-12 21:59:44,082 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.4/org.eclipse.persistence.moxy-2.6.4-javadoc.jar
+2018-03-12 21:59:44,084 [Worker-120] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.eclipse.persistence:org.eclipse.persistence.moxy:2.6.4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.eclipse.persistence:org.eclipse.persistence.moxy:jar:javadoc:2.6.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:264) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:252) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:217) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 21:59:44,091 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:44,093 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 21:59:44,095 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 21:59:44,095 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 21:59:45,728 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4-sources.jar
+2018-03-12 22:00:02,934 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 22:00:03,867 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:03,870 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 22:00:03,873 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:03,874 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 22:00:03,874 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 22:00:03,874 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 22:00:03,878 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:05,269 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:05,283 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 22:00:05,284 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:05,285 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 22:00:22,259 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4-sources.jar
+2018-03-12 22:00:22,751 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.core:2.6.4
+2018-03-12 22:00:23,112 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.4/org.eclipse.persistence.core-2.6.4-javadoc.jar
+2018-03-12 22:00:23,114 [Worker-120] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.eclipse.persistence:org.eclipse.persistence.core:2.6.4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.eclipse.persistence:org.eclipse.persistence.core:jar:javadoc:2.6.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:264) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:252) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:217) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 22:00:25,067 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4-sources.jar
+2018-03-12 22:00:28,276 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4-sources.jar
+2018-03-12 22:00:28,945 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.asm:2.6.4
+2018-03-12 22:00:29,341 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.4/org.eclipse.persistence.asm-2.6.4-javadoc.jar
+2018-03-12 22:00:29,342 [Worker-120] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.eclipse.persistence:org.eclipse.persistence.asm:2.6.4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.eclipse.persistence:org.eclipse.persistence.asm:jar:javadoc:2.6.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:264) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:252) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:217) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 22:00:30,567 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4-sources.jar
+2018-03-12 22:00:32,068 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4-sources.jar
+2018-03-12 22:00:32,335 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:32,799 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4-javadoc.jar
+2018-03-12 22:00:34,539 [Worker-120] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4-javadoc.jar
+2018-03-12 22:00:34,914 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:34,918 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-moxy:2.26
+2018-03-12 22:00:34,920 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.media:jersey-media-moxy:2.26
+2018-03-12 22:00:34,922 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.ext:jersey-entity-filtering:2.26
+2018-03-12 22:00:34,924 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish.jersey.ext:jersey-entity-filtering:2.26
+2018-03-12 22:00:34,927 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.moxy:2.6.4
+2018-03-12 22:00:34,929 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.core:2.6.4
+2018-03-12 22:00:34,932 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.asm:2.6.4
+2018-03-12 22:00:34,934 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:34,935 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:35,477 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:35,477 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 22:00:35,478 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:35,479 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 22:00:36,302 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.moxy:2.6.4
+2018-03-12 22:00:36,305 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.core:2.6.4
+2018-03-12 22:00:36,307 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.asm:2.6.4
+2018-03-12 22:00:36,310 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:36,312 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:36,314 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.core:2.6.4
+2018-03-12 22:00:36,316 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.asm:2.6.4
+2018-03-12 22:00:36,318 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:36,320 [Worker-120] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.glassfish:javax.json:1.0.4
+2018-03-12 22:00:36,513 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:36,514 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 22:00:36,516 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:00:36,516 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 22:03:30,126 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:03:30,127 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 22:03:30,128 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:03:30,128 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 22:06:30,991 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2bf63505{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2018-03-12 22:06:30,992 [Stop Help Server] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-03-12 22:06:31,503 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1891fc88{/help,null,UNAVAILABLE}
+2018-03-12 22:41:16,876 [Worker-9] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2018-03-12 22:41:18,048 [Worker-9] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|https://repo.maven.apache.org/maven2
+java.net.UnknownHostException: repo.maven.apache.org
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:924) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1504) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:843) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1494) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1353) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1287) ~[na:na]
+	at okhttp3.Dns$1.lookup(Dns.java:39) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:170) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:136) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:81) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:171) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:121) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:100) ~[na:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:120) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:185) ~[na:na]
+	at okhttp3.RealCall.execute(RealCall.java:69) ~[na:na]
+	at io.takari.aether.okhttp.OkHttpAetherClient.execute(OkHttpAetherClient.java:207) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at io.takari.aether.okhttp.OkHttpAetherClient.get(OkHttpAetherClient.java:153) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at org.eclipse.m2e.core.internal.index.nexus.AetherClientResourceFetcher.retrieve(AetherClientResourceFetcher.java:79) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.apache.maven.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:35) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:452) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:75) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:607) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:788) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1127) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1084) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:656) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-12 22:41:26,902 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 22:41:38,304 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:41:38,310 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 22:41:38,313 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 22:41:38,313 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 22:59:59,328 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-12 23:00:00,525 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:00,528 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:00:00,531 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:00,531 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:00:00,532 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of t1_deomRest_jersey
+2018-03-12 23:00:00,533 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for t1_deomRest_jersey
+2018-03-12 23:00:00,541 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:02,388 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:02,392 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:00:02,394 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:02,394 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:00:16,280 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:16,281 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:00:16,282 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:00:16,282 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:05:10,597 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:05:10,599 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:05:10,600 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:05:10,600 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:10:55,782 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:10:55,783 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:10:55,785 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:10:55,786 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:18:24,354 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:18:24,355 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:18:24,357 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:18:24,357 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:25:12,462 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @2704880ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-03-12 23:25:14,877 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.7.v20170914
+2018-03-12 23:25:15,622 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-03-12 23:25:15,622 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-03-12 23:25:15,718 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-03-12 23:25:15,748 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@499be446{/help,null,AVAILABLE}
+2018-03-12 23:25:15,770 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3006a612{HTTP/1.1,[http/1.1]}{127.0.0.1:60385}
+2018-03-12 23:25:15,771 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @2708190ms
+2018-03-12 23:25:18,698 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:25:18,699 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:25:18,701 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:25:18,701 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:37:59,884 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:37:59,885 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:37:59,886 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:37:59,886 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:39:04,354 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:39:04,355 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:39:04,357 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:39:04,358 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:40:59,089 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:40:59,091 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:40:59,092 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:40:59,093 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:49:04,928 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:49:04,930 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:49:04,931 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:49:04,932 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:53:18,573 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:53:18,574 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:53:18,575 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:53:18,575 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-12 23:55:35,150 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:55:35,151 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 23:55:35,153 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 23:55:35,154 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:04:20,249 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:04:20,251 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:04:20,252 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:04:20,253 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:05:56,862 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:05:56,863 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:05:56,866 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:05:56,866 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:06:59,573 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:06:59,574 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:06:59,579 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:06:59,579 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:08:17,036 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:08:17,037 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:08:17,039 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:08:17,040 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:18:07,317 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:18:07,318 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:18:07,319 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:18:07,319 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:21:14,159 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:21:14,160 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:21:14,162 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:21:14,162 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:22:16,844 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:22:16,845 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 00:22:16,846 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 00:22:16,846 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 00:54:54,676 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3006a612{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2018-03-13 00:54:54,677 [Stop Help Server] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-03-13 00:54:54,823 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@499be446{/help,null,UNAVAILABLE}
+2018-03-13 02:30:36,627 [Worker-8] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2018-03-13 02:30:50,585 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-13 02:31:05,929 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 02:31:05,956 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 02:31:05,958 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 02:31:05,959 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 11:04:01,100 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2018-03-13 11:04:01,898 [Worker-6] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|https://repo.maven.apache.org/maven2
+java.net.UnknownHostException: repo.maven.apache.org
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:924) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1504) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:843) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1494) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1353) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1287) ~[na:na]
+	at okhttp3.Dns$1.lookup(Dns.java:39) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:170) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:136) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:81) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:171) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:121) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:100) ~[na:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:120) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:185) ~[na:na]
+	at okhttp3.RealCall.execute(RealCall.java:69) ~[na:na]
+	at io.takari.aether.okhttp.OkHttpAetherClient.execute(OkHttpAetherClient.java:207) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at io.takari.aether.okhttp.OkHttpAetherClient.get(OkHttpAetherClient.java:153) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at org.eclipse.m2e.core.internal.index.nexus.AetherClientResourceFetcher.retrieve(AetherClientResourceFetcher.java:79) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.apache.maven.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:35) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:452) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:75) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:607) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:788) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1127) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1084) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:656) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-13 11:04:10,692 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-13 11:04:18,119 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:04:18,132 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 11:04:18,136 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:04:18,136 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 11:46:52,794 [Worker-15] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2018-03-13 11:46:53,539 [Worker-15] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|https://repo.maven.apache.org/maven2
+java.net.UnknownHostException: repo.maven.apache.org
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:924) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1504) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:843) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1494) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1353) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1287) ~[na:na]
+	at okhttp3.Dns$1.lookup(Dns.java:39) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:170) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:136) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:81) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:171) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:121) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:100) ~[na:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:120) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:185) ~[na:na]
+	at okhttp3.RealCall.execute(RealCall.java:69) ~[na:na]
+	at io.takari.aether.okhttp.OkHttpAetherClient.execute(OkHttpAetherClient.java:207) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at io.takari.aether.okhttp.OkHttpAetherClient.get(OkHttpAetherClient.java:153) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at org.eclipse.m2e.core.internal.index.nexus.AetherClientResourceFetcher.retrieve(AetherClientResourceFetcher.java:79) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.apache.maven.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:35) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:452) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:75) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:607) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:788) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1127) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1084) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:656) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-13 11:46:58,734 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-13 11:46:58,734 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-13 11:47:03,914 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:47:03,944 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 11:47:03,948 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:47:03,948 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 11:47:06,680 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-13 11:47:08,373 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:47:08,376 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 11:47:08,378 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:47:08,379 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 11:49:04,220 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:49:04,227 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 11:49:04,229 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:49:04,229 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 11:49:42,934 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:49:42,935 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 11:49:42,936 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 11:49:42,937 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources
+2018-03-13 16:00:27,786 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2018-03-13 16:00:28,580 [Worker-2] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|https://repo.maven.apache.org/maven2
+java.net.UnknownHostException: repo.maven.apache.org
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:924) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1504) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:843) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1494) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1353) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1287) ~[na:na]
+	at okhttp3.Dns$1.lookup(Dns.java:39) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:170) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:136) ~[na:na]
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:81) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:171) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:121) ~[na:na]
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:100) ~[na:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:120) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:92) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:67) ~[na:na]
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:185) ~[na:na]
+	at okhttp3.RealCall.execute(RealCall.java:69) ~[na:na]
+	at io.takari.aether.okhttp.OkHttpAetherClient.execute(OkHttpAetherClient.java:207) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at io.takari.aether.okhttp.OkHttpAetherClient.get(OkHttpAetherClient.java:153) ~[aether-connector-okhttp-0.17.2.jar:0.17.2]
+	at org.eclipse.m2e.core.internal.index.nexus.AetherClientResourceFetcher.retrieve(AetherClientResourceFetcher.java:79) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.apache.maven.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:35) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:452) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:75) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:607) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:788) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1127) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1084) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:656) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-03-13 16:00:32,144 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.xyz:t1_deomRest_jersey:0.0.1-SNAPSHOT @ C:\Users\Dell\web_services\t1_deomRest_jersey\pom.xml.
+2018-03-13 16:00:43,502 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 16:00:43,507 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-13 16:00:43,510 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 16:00:43,511 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\web_services\t1_deomRest_jersey\src\test\resources

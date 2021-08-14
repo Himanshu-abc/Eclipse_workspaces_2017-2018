@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="g16_custom_form_validation">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="g16_custom_form_validation"/>
+        <property name="java-output-path" value="/g16_custom_form_validation/build/classes"/>
+    </wb-module>
+</project-modules>

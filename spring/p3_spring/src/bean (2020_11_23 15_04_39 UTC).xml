@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+        
+        <bean id="car" class="com.app.entity.Car">
+        <property name="model" value="x1000"></property>
+        <property name="color" value="red"></property>
+        </bean>
+        
+        <bean id="car1" class="com.app.entity.Car">
+        <property name="model" value="cb445"></property>
+        <property name="color" value="blue"></property>
+        </bean>
+
+        <bean id="per" class="com.app.entity.Person">
+        <property name="name" value="mohan"></property>
+        
+        <property name="friends">
+        <list>
+        <value>ramesh</value>
+        <value>suresh</value>
+        <value>Tarun</value>
+        <value>vishwash</value>
+        <value>lahoti</value>
+        </list>
+        </property>
+        
+        <property name="Emails">
+        <list>
+        <value>mohan23@gmail.com</value>
+        <value>mohansingh342@yahoo.com</value>
+        <value>mohan_j@reddifmail.com</value>
+        </list>
+        </property>
+        
+        <property name="education">
+        <props>
+        <prop key="BE-CS">Grade A+</prop>
+        <prop key="BE-ME">Grade A</prop>
+        </props>
+        </property>
+        
+        <property name="accounts">
+        <map>
+        <entry key="SBI" value="990000.99"></entry>
+        <entry key="BOI" value="2000.0"></entry>
+        <entry key="WU" value="128000.00"></entry>
+        </map>
+        </property>
+        
+        <property name="car">
+        <list>
+        <ref bean="car"></ref>
+        <ref bean="car1"></ref>
+        </list>
+        </property>
+    </bean>
+
+</beans>

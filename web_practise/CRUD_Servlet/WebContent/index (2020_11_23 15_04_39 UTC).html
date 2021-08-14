@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Index Page</title>
+</head>
+<body>
+<h2>create a new employee record</h2>
+
+<form action="AddEmployee" method="post">
+
+<table>
+<tr><td>name</td><td><input type="text" name="name"></td></tr>
+<tr><td>password</td><td><input type="password" name="pass"></td></tr>
+<tr><td>email</td><td><input type="email" name="email"></td></tr>
+<tr><td>country</td><td>
+<select name="country" style="width:150px">
+<option>USA</option>
+<option>UK</option>
+<option>India</option>
+<option>Canada</option>
+<option>China</option>
+<option>Russia</option>
+<option>other</option>
+</select>
+</td></tr>
+<tr><td>submit</td><td><input type="submit" value="Add"></td></tr>
+</table>
+</form><br>
+<a href="ViewEmployees">View Employee Records</a>
+</body>
+</html>

@@ -1,0 +1,5 @@
+package com.app.entity_and_controler;
+
+public class StudentController {
+
+}

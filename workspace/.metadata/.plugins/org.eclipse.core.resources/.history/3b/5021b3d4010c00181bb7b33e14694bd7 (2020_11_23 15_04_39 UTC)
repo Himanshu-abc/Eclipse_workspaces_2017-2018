@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>main Menu</title>
+</head>
+<body>
+<form action="SaveServlet" method="post">
+
+Enter Name : <input type="text" name="name"><br>
+Enter Password : <input type="password" name="password"><br>
+Enter Email : <input type="email" name="email"><br>
+Enter Country : <input type="text" name="country"><br>
+
+<input type="submit" value="save">
+
+</form>
+</body>
+</html>

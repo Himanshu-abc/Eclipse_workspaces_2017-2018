@@ -1,0 +1,20 @@
+package ejbpackage;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateful;
+
+/**
+ * Session Bean implementation class ListElements
+ */
+@Stateful
+@LocalBean
+public class ListElements {
+
+    /**
+     * Default constructor. 
+     */
+    public ListElements() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

@@ -1,0 +1,33 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		// print different characters in string
+		
+		System.out.println("enter a string");
+		
+		Scanner sc=new Scanner(System.in);
+		
+		String s=sc.nextLine();
+		
+		s.toUpperCase();
+		int count=0;
+		for(char ch='A';ch<'z';ch++) {
+			int i=0;
+			
+			for(i=0;i<s.length();i++) {
+				if(ch==s.charAt(i)) {
+					System.out.print(ch+" ");
+					++count;
+					break;
+				}
+			}
+		}
+		
+		System.out.println("total words used "+count);
+	}
+	}

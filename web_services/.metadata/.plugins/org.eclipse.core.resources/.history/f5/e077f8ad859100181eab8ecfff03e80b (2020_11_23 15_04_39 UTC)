@@ -1,0 +1,11 @@
+package com.app.entity;
+
+public class Employee {
+	
+	private String name;
+	private Integer age;
+	private Integer gender;
+	private String[] hobbies;
+	private String department;
+	private Double salary;
+}

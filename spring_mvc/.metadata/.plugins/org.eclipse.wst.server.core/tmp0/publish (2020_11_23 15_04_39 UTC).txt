@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Thu Jul 26 23:16:15 IST 2018
+org.eclipse.jst.jee.server\:/binary\:E\:\\spring_lib\\spring-framework-5.0.4.RELEASE\\libs\\spring-web-5.0.4.RELEASE.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Dell\\.m2\\repository\\org\\springframework\\spring-web\\5.0.4.RELEASE\\spring-web-5.0.4.RELEASE.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\spring_lib\\spring-framework-5.0.4.RELEASE\\libs\\spring-web-5.0.4.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE-sources.jar

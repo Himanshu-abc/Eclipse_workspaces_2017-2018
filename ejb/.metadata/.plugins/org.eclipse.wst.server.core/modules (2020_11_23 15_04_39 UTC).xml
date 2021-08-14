@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:t1_demoEjb" serverId="WildFly 111520937257812"/>
+  <module moduleId="org.eclipse.jst.jee.server:t2_stateful_bean" serverId="WildFly 111520937257812"/>
+</modules>

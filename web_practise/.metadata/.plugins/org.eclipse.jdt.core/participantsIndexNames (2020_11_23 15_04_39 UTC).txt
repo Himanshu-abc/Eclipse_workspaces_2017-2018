@@ -1,0 +1,13 @@
+INDEX VERSION 1.130
+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1495717528.index
+\CRUD_Jsp\src
+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2284023041.index
+\LoginModule\src
+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\962562183.index
+\JspExample\src
+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1571325947.index
+\FileUploadDemo\src\main\resources
+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3064398897.index
+\ServletFilterExample\src
+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\512694732.index
+\JspActiontags\src

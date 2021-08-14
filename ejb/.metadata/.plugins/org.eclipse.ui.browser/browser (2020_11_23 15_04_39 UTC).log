@@ -1,0 +1,19 @@
+
+Mar 13, 2018 16:17:22.71 NEW SESSION
+Mar 13, 2018 16:17:22.71 [5588:3536:0313/161722.717:ERROR:external_registry_loader_win.cc(157)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Mar 13, 2018 16:17:25.84 [5588:12268:0313/161725.849:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2018 16:17:26.36 [5588:12268:0313/161726.349:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 13, 2018 16:17:46.37 [5588:12268:0313/161746.378:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2018 16:17:51.78 [5588:12268:0313/161751.784:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 13, 2018 16:18:27.31 [5588:12268:0313/161827.318:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2018 16:18:47.50 [5588:12268:0313/161847.509:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 13, 2018 16:20:22.29 [5588:12268:0313/162022.291:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2018 16:20:37.71 [5588:12268:0313/162037.711:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 13, 2018 16:24:25.64 [1232:3708:0313/162425.645:ERROR:external_registry_loader_win.cc(157)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Mar 13, 2018 16:24:25.97 [1232:12512:0313/162425.976:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2018 16:24:26.10 [1232:12512:0313/162426.107:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+
+Mar 13, 2018 20:40:59.38 NEW SESSION
+Mar 13, 2018 20:40:59.51 [10860:7608:0313/204059.228:ERROR:external_registry_loader_win.cc(157)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Mar 13, 2018 20:41:00.94 [10860:5812:0313/204100.945:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2018 20:41:00.94 [10860:5812:0313/204100.946:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.

@@ -1,0 +1,30 @@
+package pract;
+
+import java.io.File;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+	
+		// list of files and directory
+		
+		try {
+			
+			File file=new File("E:\\Softwares");
+		    File list[] = file.listFiles();
+			
+		    for(int i=0;i<list.length;i++) {
+		       
+		    	if(list[i].isFile()) {
+		    		System.out.print("file "+list[i]);
+		    	}
+		    	else if (list[i].isDirectory()) {
+					System.out.print("directory "+list[i]);
+				}
+		    }
+		    
+		}catch (Exception e) {
+	         e.printStackTrace();
+		}
+	}
+	}

@@ -1,0 +1,30 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		// print table of a integer
+		
+		System.out.println("enter a positive integer");
+		boolean error=false;
+		int x=0;
+		
+		do {
+			try {
+				Scanner sc=new Scanner(System.in);
+				x=sc.nextInt();
+				error=false;
+				
+			}catch (Exception e) {
+				error=true;
+				System.out.println("please enter a positive integer");
+			}
+		}
+		while(true);
+		
+		
+	}
+	}

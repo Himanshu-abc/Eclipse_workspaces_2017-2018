@@ -1,0 +1,68 @@
+package byHimanshu;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.ResultSetMetaData;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/Search")
+public class Search extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		
+		String ide=request.getParameter("id");
+		int id=Integer.parseInt(ide);
+		
+		Connection con=null;
+		String url="jdbc:oracle:thin:@127.0.0.1:1521:xe";
+		String user="system";
+		String password="apocalypse";
+		try {
+			
+			Class.forName("oracle.jdbc.OracleDriver");
+			
+			con=DriverManager.getConnection(url, user, password);
+			
+			PreparedStatement pst=con.prepareStatement("select * from result where roll no=?");
+			
+			pst.setInt(1, id);
+			
+			out.println("<table width=50% border=1>");
+			
+			out.println("<caption>Result</caption>");
+			
+			ResultSet rs=pst.executeQuery();
+			
+			ResultSetMetaData rsmd=rs.getMetaData();
+			
+			int c=rsmd.getColumnCount();
+			
+			out.print("<tr>");
+			
+			for(int i=1;i<=c;i++) {
+				out.print("<th>"+rsmd.getColumnName(i)+"</th>");
+			}
+			out.print("</tr>");
+			
+			if(rs.next()) {
+				
+				out.print("<tr><td>"+rs.getInt(1)+"</td> <td>"+rs.getString(2)+"</td> <td>"+rs.getString(3)+"</td> <td>"+rs.getString(4)+"</td></tr>");
+			}
+			out.println("</table>");
+			con.close();
+		}catch (Exception e) {
+		e.printStackTrace();
+		}}
+	}

@@ -1,0 +1,18 @@
+package com.app.entity_and_controler;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class StudentController {
+
+	@RequestMapping("/form")
+	public ModelAndView function() {
+		Student st=new Student();
+		ModelAndView mav=new ModelAndView("form","st",st);
+		
+		
+		return mav;
+	}
+}

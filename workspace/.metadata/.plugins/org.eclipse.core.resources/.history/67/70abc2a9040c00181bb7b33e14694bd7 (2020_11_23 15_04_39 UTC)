@@ -1,0 +1,27 @@
+package byHimanshu;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class EmployeeDao {
+	
+	public static Connection getConnection() {
+	
+		String Driver="oracle.jdbc.OracleDriver";
+		String user="system";
+		String password="apocalypse";
+		String url="jdbc:oracle:thin:@localhost:1521:xe";
+		
+		Connection conn=null;
+		
+		try {
+			Class.forName(Driver);
+			conn=DriverManager.getConnection(url, user, password);
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+		return conn;
+	}
+	
+	
+}

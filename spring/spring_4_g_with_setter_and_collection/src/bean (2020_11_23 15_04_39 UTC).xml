@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="restaurantBean" class="com.app.bean.Restaurant">
+    
+   <property name="waitersList">
+   <list>
+   <value>Mr.ABC</value>
+   <value>Mr.DEF</value>
+   <value>Mr.GHI</value>
+   <value>Mr.JKL</value>
+   <value>Mr.MNO</value>
+   </list>
+   </property>
+        
+    </bean>
+</beans>

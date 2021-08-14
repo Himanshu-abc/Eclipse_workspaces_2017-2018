@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Dell\workspace1\jpaDemo"/>
+			<item value="C:\Users\Dell\workspace1\hib_latest_m"/>
+			<item value="C:\Users\Dell\workspace1\demoHib_maven"/>
+			<item value="C:\Users\Dell\workspace1\hib_criteria"/>
+			<item value="C:\Users\Dell\workspace1\Hql"/>
+			<item value="C:\Users\Dell\workspace1\hib_cache"/>
+			<item value="C:\Users\Dell\workspace1\hib_fetching"/>
+			<item value="C:\Users\Dell\workspace1\hib_mapping_1"/>
+			<item value="C:\Users\Dell\workspace1\hib_web"/>
+			<item value="C:\Users\Dell\workspace1\hib_anno"/>
+			<item value="C:\Users\Dell\workspace1\first_hib_crud"/>
+			<item value="C:\Users\Dell\workspace1\first_hib"/>
+			<item value="C:\Users\Dell\workspace1\hib1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

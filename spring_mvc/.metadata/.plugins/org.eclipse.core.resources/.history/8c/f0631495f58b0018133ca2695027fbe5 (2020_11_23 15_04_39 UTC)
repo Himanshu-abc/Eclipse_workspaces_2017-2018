@@ -1,0 +1,28 @@
+package com.app.entity;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class StudentController {
+
+	@RequestMapping("form")
+	public ModelAndView function() {
+		
+		ModelAndView mav=new ModelAndView("form");
+		return mav;
+	}
+	
+	@ModelAttribute
+	public void commonMethod(Model m) {
+		  m.addAttribute("message","This are Students Details"); 
+	}
+	
+	@RequestMapping("/")
+	public ModelAndView function2() {
+		ModelAndView mav=new ModelAndView("display");
+	}
+}

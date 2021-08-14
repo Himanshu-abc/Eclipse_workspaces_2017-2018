@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1" isELIgnored="false" isThreadSafe="true"%>
+    
+<%@taglib prefix="c" uri="http://www.springframework.org/tags/form"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Form Page</title>
+</head>
+<body>
+
+<c:errors path="p.*"></c:errors>
+
+<c:form action="register" method="post" modelAttribute="p">
+
+Name : <c:input path="name"/><br>
+age : <c:input path="age"/><br>
+hobby : <c:select path="hobby"><br>
+<c:option value="volleyball">volleyball</c:option>
+<c:option value="football">football</c:option>
+<c:option value="cricket">cricket</c:option>
+<c:option value="gilli-danda">gilli-danda</c:option>
+<c:option value="other">other</c:option>
+</c:select>
+
+locality : <c:input path="p.locality"/><br>
+city : <c:input path="p.city"/><br>
+pinCode : <c:input path="p.pinCode"/><br>
+country : <c:input path="p.country"/><br>
+
+</c:form>
+
+</body>
+</html>

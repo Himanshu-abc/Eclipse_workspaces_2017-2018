@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;names&apos; in &apos;com.app.entity.Person&apos; to &apos;friends&apos;&#x0D;&#x0A;- Original project: &apos;p3_spring&apos;&#x0D;&#x0A;- Original element: &apos;com.app.entity.Person.names&apos;&#x0D;&#x0A;- Renamed element: &apos;com.app.entity.Person.friends&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename getter method for field&#x0D;&#x0A;- Rename setter method for field" delegate="false" deprecate="false" description="Rename field &apos;names&apos;" flags="589826" getter="true" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.app.entity{Person.java[Person^names" name="friends" references="true" setter="true" stamp="1531910912272" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;st&apos; in &apos;byHimanshu.Server.main(...)&apos; to &apos;cli&apos;&#x0D;&#x0A;- Original project: &apos;practise4&apos;&#x0D;&#x0A;- Original element: &apos;byHimanshu.Server.main(String[]).st&apos;&#x0D;&#x0A;- Renamed element: &apos;st&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;st&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;byHimanshu{Server.java[Server~main~\[QString;@st!383!396!394!395!QString;!0!false" name="cli" references="true" stamp="1517309029011" version="1.0"/>
+</session>

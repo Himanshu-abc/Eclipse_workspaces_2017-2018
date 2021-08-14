@@ -1,0 +1,244 @@
+
+Jul 12, 2018 22:21:00.90 NEW SESSION
+Jul 12, 2018 22:21:00.90 [3320:10724:0712/222100.873:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 12, 2018 22:21:08.43 [3320:8044:0712/222108.433:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 12, 2018 22:21:23.27 [3320:8432:0712/222123.270:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\67.0.3396.99\chrome_renderer.service.exe
+Jul 12, 2018 22:21:23.27 [3320:8432:0712/222123.270:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\67.0.3396.99\chrome_renderer.service.exe
+Jul 12, 2018 22:22:11.90 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 12, 2018 23:32:24.85 [6672:9888:0712/233224.851:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 12, 2018 23:32:25.03 [6672:9708:0712/233225.036:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 12, 2018 23:32:25.13 [6672:9888:0712/233225.121:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 13, 2018 24:02:48.41 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 13, 2018 24:02:48.41 [6672:9616:0713/000248.419:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 13, 2018 24:02:54.43 [6672:9616:0713/000254.438:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:03:20.91 [6672:9616:0713/000320.919:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:04:15.42 [6672:9616:0713/000415.428:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:06:10.53 [6672:9616:0713/000610.535:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:08:52.18 [6672:9616:0713/000852.186:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:11:11.01 [6672:9888:0713/001111.016:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:11:36.94 [6672:9888:0713/001136.947:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:12:33.38 [6672:9888:0713/001233.384:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:14:32.14 [6672:9888:0713/001432.144:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:14:37.43 [6672:9616:0713/001437.432:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:17:44.05 [6672:9888:0713/001744.054:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:23:58.73 [6672:9888:0713/002358.736:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:24:37.43 [6672:9616:0713/002437.433:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:33:58.74 [6672:9888:0713/003358.748:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:34:37.44 [6672:9616:0713/003437.442:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:43:18.78 [6672:9616:0713/004318.784:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:44:10.81 [6672:9888:0713/004410.812:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 24:44:38.25 [6672:9616:0713/004438.251:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 13, 2018 24:44:50.32 [6672:9616:0713/004450.322:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:44:56.33 [6672:9616:0713/004456.330:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:45:14.86 [6672:9616:0713/004514.860:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:45:26.51 [6672:9616:0713/004526.513:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:45:38.23 [6672:9616:0713/004538.234:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 13, 2018 24:45:50.19 [6672:9616:0713/004550.199:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:48:33.47 [6672:9616:0713/004833.477:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:49:02.73 [6672:9616:0713/004902.731:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 13, 2018 24:49:14.69 [6672:9616:0713/004914.699:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:50:29.74 [6672:9616:0713/005029.742:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 13, 2018 24:50:32.97 [6672:9616:0713/005032.973:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 13, 2018 24:50:35.64 [6672:9616:0713/005035.646:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:50:46.34 [6672:9616:0713/005046.340:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2018 24:51:08.27 [6672:9616:0713/005108.272:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 24:54:22.83 [6672:9888:0713/005422.837:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 13, 2018 01:01:20.28 [6672:9616:0713/010120.284:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2018 01:04:34.85 [6672:9888:0713/010434.850:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 14, 2018 14:27:15.28 NEW SESSION
+Jul 14, 2018 14:27:15.28 [3816:3280:0714/142715.267:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 14:27:15.76 [3816:11120:0714/142715.768:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 14:29:31.39 [708:5572:0714/142931.394:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 14:29:31.54 [708:9528:0714/142931.548:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 14:29:31.67 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.67 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.67 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.67 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 14:29:31.68 [708:5572:0714/142931.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+
+Jul 14, 2018 15:02:05.64 NEW SESSION
+Jul 14, 2018 15:02:05.64 [7788:824:0714/150205.641:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 15:02:05.86 [7788:7396:0714/150205.861:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:02:05.97 [7788:824:0714/150205.953:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:07:25.94 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+
+Jul 14, 2018 15:20:31.80 NEW SESSION
+Jul 14, 2018 15:20:31.80 [11668:8892:0714/152031.799:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 15:20:31.94 [11668:4500:0714/152031.944:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.093:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.093:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.093:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.093:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.093:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.093:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.094:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.094:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.094:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.094:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:20:32.10 [11668:8892:0714/152032.094:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 15:22:29.31 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 17:21:29.60 [9724:7824:0714/172129.574:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 17:21:29.79 [9724:920:0714/172129.737:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 17:21:29.85 [9724:7824:0714/172129.837:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+
+Jul 14, 2018 20:14:52.84 NEW SESSION
+Jul 14, 2018 20:14:52.84 [11524:10940:0714/201452.849:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 20:14:53.05 [11524:8476:0714/201453.050:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 20:14:53.33 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.33 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.33 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.33 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.33 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.33 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.35 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.35 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.35 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.35 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:14:53.35 [11524:10940:0714/201453.335:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:12.13 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 20:17:25.21 [7876:5656:0714/201725.217:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 20:17:25.36 [7876:8308:0714/201725.364:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 20:17:25.51 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:17:25.53 [7876:5656:0714/201725.518:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:19:03.84 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 20:20:02.56 [9676:12148:0714/202002.568:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 20:20:02.72 [9676:6296:0714/202002.722:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 20:20:02.82 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:20:02.83 [9676:12148:0714/202002.822:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:21:28.43 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 20:22:03.81 [5516:5372:0714/202203.819:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 20:22:03.99 [5516:9112:0714/202203.990:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.16 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.17 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 20:22:04.17 [5516:5372:0714/202204.131:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+
+Jul 14, 2018 21:52:05.97 NEW SESSION
+Jul 14, 2018 21:52:05.97 [3980:7084:0714/215205.966:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 21:52:12.59 [3980:6380:0714/215212.595:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 21:52:27.90 [3980:4520:0714/215227.908:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\67.0.3396.99\chrome_renderer.service.exe
+Jul 14, 2018 21:52:27.92 [3980:4520:0714/215227.920:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\67.0.3396.99\chrome_renderer.service.exe
+Jul 14, 2018 21:59:34.10 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 21:59:41.30 [10820:3768:0714/215941.302:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 21:59:41.61 [10820:8612:0714/215941.615:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 22:05:11.29 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 22:05:16.70 [1764:10988:0714/220516.700:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 22:05:16.85 [1764:6300:0714/220516.858:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 22:05:17.02 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.02 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.012:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:05:17.03 [1764:10988:0714/220517.013:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:09:00.23 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 22:19:59.25 [10632:9532:0714/221959.236:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 22:19:59.48 [10632:8176:0714/221959.483:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:19:59.60 [10632:9532:0714/221959.606:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:29:34.98 Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 14, 2018 22:31:08.59 [2700:10296:0714/223108.597:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 14, 2018 22:31:08.76 [2700:11580:0714/223108.766:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 14, 2018 22:31:08.88 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.88 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.89 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.89 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.89 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.89 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.89 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.97 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.97 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.97 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 14, 2018 22:31:08.97 [2700:10296:0714/223108.869:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+
+Jul 15, 2018 03:17:31.72 NEW SESSION
+Jul 15, 2018 03:17:31.72 [9824:3904:0715/031731.704:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 15, 2018 03:17:32.03 [9824:10308:0715/031732.035:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\PremierOpinion\pmcm.crx for key Software\Google\Chrome\Extensions\mkndcbhcgphcfkkddanakjiepeknbgle does not exist or is not readable.
+Jul 15, 2018 03:17:32.18 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.18 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 15, 2018 03:17:32.19 [9824:3904:0715/031732.186:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.

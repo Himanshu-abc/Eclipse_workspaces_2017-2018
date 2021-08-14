@@ -1,0 +1,48 @@
+package pract;
+
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
+public class Second {
+	
+	public static void main(String[] args) {
+		
+		//print prime factors of a given number
+		
+		System.out.println("Enter a number");
+		
+		Scanner sc=new Scanner(System.in);
+		int num=sc.nextInt();
+		Set<Integer> hs=new HashSet<Integer>();
+		
+		for(int i=2;i<num;i++) {
+			if(num%i==0) {
+			hs.add(i);	
+			}
+		}
+		System.out.println(hs);
+		int l=hs.size();
+		System.out.println(l);
+		int arr[]=new int[l];
+		
+		for(int k=0;k<arr.length;k++) {
+			System.out.print(arr[k]);
+		}
+		boolean isPrime=true;
+		
+		for(int i=0;i<l;i++) {
+			
+			for(int j=2;j<num;j++) {
+				
+				if(arr[i]%j==0) {
+					isPrime=false;
+					break;
+				}
+			}
+			if(isPrime) {
+				System.out.print(arr[i]+" ");
+			}
+		}
+	}
+}

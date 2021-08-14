@@ -1,0 +1,9 @@
+package com.app.entity_and_controler;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class StudentController {
+
+	
+}

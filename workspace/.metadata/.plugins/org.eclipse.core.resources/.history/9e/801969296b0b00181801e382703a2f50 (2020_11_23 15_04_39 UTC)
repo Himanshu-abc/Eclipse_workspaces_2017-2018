@@ -1,0 +1,24 @@
+package byHimanshu;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Dcoder {
+
+	public static void main(String[] args) {
+		
+		try {
+			Class.forName("oracle.jdbc.OracleDriver");
+			
+			Connection con=DriverManager.getConnection("oracle:jdbc:thin:@localhost:1521:xe","system","apocalypse");
+			
+			System.out.println("connection established");
+			
+			con.close();
+			
+		}catch (Exception e) {
+			System.err.println();
+		}
+	}
+
+}

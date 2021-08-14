@@ -1,0 +1,21 @@
+package pract;
+
+import java.io.Console;
+
+public class Practise19 {
+
+	public static void main(String[] args) {
+		
+		//different ways to take input
+		
+		//1.scanner
+		//2.console class
+		
+		Console con=System.console();
+		System.out.println("enter programming skills");
+		
+		String skills=con.readLine();
+		
+		System.out.print(skills);
+	}
+}

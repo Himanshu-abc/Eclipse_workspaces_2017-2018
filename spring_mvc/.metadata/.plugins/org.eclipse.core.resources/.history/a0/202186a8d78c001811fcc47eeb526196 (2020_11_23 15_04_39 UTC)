@@ -1,0 +1,40 @@
+package com.app.cotroller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.WebDataBinder;
+import org.springframework.web.bind.annotation.InitBinder;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.app.entity.Employee;
+
+@Controller
+public class EmployeeController {
+	
+	@RequestMapping("/form")
+	public ModelAndView function() {
+		
+		ModelAndView mav=new ModelAndView("form");
+		mav.addObject("message","this is students form");
+		return mav;
+	}
+	
+	@RequestMapping("/employeeDetail")
+	public ModelAndView function1(@ModelAttribute("e") Employee e) {
+		
+		ModelAndView mav=new ModelAndView("display");
+		return mav;
+	}
+	
+	@InitBinder
+	public void function2(WebDataBinder binder) {
+		binder.setDisallowedFields("age");
+	}
+	
+	@ModelAttribute
+	public void commomAttribues(Model m) {
+		m.addAttribute("msg","hello this is a message");
+	}
+}

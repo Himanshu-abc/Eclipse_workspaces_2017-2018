@@ -1,0 +1,35 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+	
+	public static boolean isPrime(int n) {
+		boolean prime=true;
+		
+		for(int i=2;i<n;i++) {
+			
+			if(n%i==0) {
+				prime=false;
+				break;
+			}
+		}
+		return prime;
+	}
+
+	public static void main(String[] args) {
+		
+		// extract no. from string
+		
+		System.out.println("enter a string with numbers");
+		
+		Scanner sc=new Scanner(System.in);
+		String s=sc.nextLine();
+		
+		String numbers="";
+		
+		numbers=s.replaceAll("[^0-9]", " ");
+		
+		System.out.println(numbers);
+	}
+	}

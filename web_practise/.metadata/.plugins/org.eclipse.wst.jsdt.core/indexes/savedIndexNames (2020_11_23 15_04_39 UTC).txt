@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+C:\Users\Dell\web_practise\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+574819887.index
+712224890.index
+679471055.index
+334054822.index
+3623234183.index
+3388504731.index
+3220130157.index
+1023266660.index
+4022232244.index
+3671142109.index
+2509166865.index
+2373164258.index
+1167830327.index
+3617236364.index
+2355513197.index

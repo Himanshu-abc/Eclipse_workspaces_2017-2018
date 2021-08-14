@@ -1,0 +1,26 @@
+package com.app.entity;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+@Controller
+public class EmployeeRestControler {
+	
+	@ResponseBody
+	@RequestMapping(value="/employees",method=RequestMethod.GET)
+	public List<Employee> function1() {
+		
+		List<Employee> list=new ArrayList<>();
+		
+		list.add(new Employee("ram", 22, 243323d));
+		list.add(new Employee("sheetal",32,3242432d));
+		list.add(new Employee("mohan", 44, 3434343d));
+		return list;
+	}
+
+}

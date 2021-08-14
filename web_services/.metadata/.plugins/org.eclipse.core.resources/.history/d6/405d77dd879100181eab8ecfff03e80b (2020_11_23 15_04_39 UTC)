@@ -1,0 +1,20 @@
+package com.app.entity;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.ModelAndView;
+
+@RestController
+public class EmployeeRestControler {
+
+	@RequestMapping(value="/form" , method=RequestMethod.GET)
+	public ModelAndView function1() {
+		
+		Employee emp=new Employee();
+		ModelAndView mav=new ModelAndView("form","emp",emp);
+		
+		String[] sa=new String[] {""};
+		return mav;
+	}
+}

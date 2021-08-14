@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/spring_3_g_di_with_setter_method/src/com/app/bean/Test.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.app.bean.Test"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="spring_3_g_di_with_setter_method"/>
+</launchConfiguration>

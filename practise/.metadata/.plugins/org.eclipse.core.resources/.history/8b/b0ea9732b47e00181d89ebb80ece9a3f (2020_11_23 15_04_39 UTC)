@@ -1,0 +1,18 @@
+package pract;
+
+import java.net.InetAddress;
+import java.util.Date;
+
+public class Practise17 {
+
+	public static void main(String[] args) {
+	
+		Date d=new Date();
+		
+		System.out.println(d.getDay()+"/"+ d.getMonth()+"/"+d.getYear());
+		
+		System.out.println(d.toString());
+		
+		System.out.println(d.getHours()+":"+d.getMinutes()+":"+d.getSeconds());
+	}
+}

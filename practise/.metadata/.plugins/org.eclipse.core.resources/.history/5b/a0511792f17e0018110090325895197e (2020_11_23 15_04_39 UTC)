@@ -1,0 +1,23 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Second {
+	
+	public static boolean isBinaryNumber(long n) {
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		//binary to decimal no.
+		
+		System.out.println("enter binary number");
+		
+		Scanner sc=new Scanner(System.in);
+		long binary=sc.nextInt();
+		
+		
+	}
+}

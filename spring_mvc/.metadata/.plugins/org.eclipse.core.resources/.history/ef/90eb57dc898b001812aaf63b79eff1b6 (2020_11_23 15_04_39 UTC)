@@ -1,0 +1,9 @@
+package com.app.entity;
+
+import org.springframework.stereotype.Controller;
+
+@Controler
+public class Controller {
+
+	
+}

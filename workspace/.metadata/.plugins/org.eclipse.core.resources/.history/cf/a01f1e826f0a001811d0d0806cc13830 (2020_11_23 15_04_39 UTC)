@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>this is main page</title>
+</head>
+<body>
+<b>This is main page</b>
+<br><br>
+<a href="login.html">login</a>
+<br><a href="Profile">Profile</a><br>
+<a href="Logout">log-out</a>
+</body>
+</html>

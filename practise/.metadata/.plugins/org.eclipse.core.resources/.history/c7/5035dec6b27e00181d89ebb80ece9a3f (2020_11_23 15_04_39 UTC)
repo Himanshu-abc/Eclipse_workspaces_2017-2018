@@ -1,0 +1,18 @@
+package pract;
+
+import java.net.InetAddress;
+
+public class Practise17 {
+
+	public static void main(String[] args) {
+	
+		// get hostnameby ip address
+		try {
+		InetAddress ia=InetAddress.getByName("127.0.0.1");
+		System.out.println(ia.getHostName());
+		
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

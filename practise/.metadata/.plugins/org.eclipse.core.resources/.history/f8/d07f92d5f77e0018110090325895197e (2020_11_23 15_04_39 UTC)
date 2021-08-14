@@ -1,0 +1,25 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Third {
+
+	public static void main(String[] args) {
+	
+		//pattern1
+		
+		System.out.println("enter no. of lines");
+		
+		Scanner sc=new Scanner(System.in);
+		int l=sc.nextInt();
+		
+		for(int i=0;i<l;i++) {
+			
+			for(int j=i+1;j<=l;j++) {
+				
+				System.out.print(j+" ");
+			}
+			System.out.println();
+		}
+	}
+}

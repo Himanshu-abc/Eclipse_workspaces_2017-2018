@@ -1,0 +1,56 @@
+package byHimanshu;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+
+public class EmployeeDao {
+	
+	public static Connection getConnection() {
+	
+		String Driver="oracle.jdbc.OracleDriver";
+		String url="jdbc:oracle:thin:@localhost:1521:xe";
+		String user="system";
+		String password="apocalypse";
+		
+		Connection con=null;
+		
+		try {
+			
+		Class.forName(Driver);
+		
+		con=DriverManager.getConnection(url, user, password);
+			
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+		return con;
+	}
+	
+	public static int save(Employee e) {
+		
+		int status=0;
+		
+		try {
+			
+		Connection con=EmployeeDao.getConnection();
+		  
+		PreparedStatement pst =con.prepareStatement("insert into user905 (name,password,email,country) values (?,?,?,?)");
+		
+		pst.setString(1, e.getName());
+		pst.setString(2, e.getPassword());
+		pst.setString(3, e.getEmail());
+		pst.setString(4, e.getCountry());
+		
+	    status=pst.executeUpdate();
+	   
+	    pst.close();
+	    con.close();
+		}
+		catch (Exception ex) {
+			ex.printStackTrace();
+		}
+		return status;
+	}
+	
+}

@@ -1,0 +1,10 @@
+package byHimanshu;
+
+public class Employee {
+	
+	int id;
+	String name,password,email,country;
+	
+	
+
+}

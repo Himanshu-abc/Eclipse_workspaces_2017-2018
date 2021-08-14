@@ -1,0 +1,24 @@
+package pract;
+
+import java.util.Scanner;
+import java.util.StringTokenizer;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		// count words in a string
+		
+		System.out.println("enter a string");
+		
+		Scanner sc=new Scanner(System.in);
+		
+	    String s=sc.nextLine();
+		
+		StringTokenizer st=new StringTokenizer(s, "!?! ");
+		
+		int w=st.countTokens();
+		
+		System.out.println(w+" words");
+	}
+	}

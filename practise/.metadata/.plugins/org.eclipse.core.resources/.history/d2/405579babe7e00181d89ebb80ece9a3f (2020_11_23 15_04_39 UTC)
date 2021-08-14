@@ -1,0 +1,22 @@
+package pract;
+
+import java.io.Console;
+import java.util.Scanner;
+
+public class Practise19 {
+
+	public static void main(String[] args) {
+		
+		//different ways to take input
+		
+		//1.scanner
+		//2.console class
+		
+		Console c= System.console();
+		String s=c.readLine();
+		
+		for(int i=0;i<s.length();i++) {
+			System.out.print(s);
+		}
+	}
+}

@@ -1,0 +1,10 @@
+package com.app.entity;
+
+public class Address {
+	
+	private String locality;
+	private String city;
+	private int pinCode;
+	private String country;
+
+}

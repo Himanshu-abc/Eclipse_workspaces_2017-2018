@@ -1,0 +1,11 @@
+package pract;
+
+public class Practise17 {
+
+	public static void main(String[] args) {
+	
+		// get hostnameby ip address
+		
+		
+	}
+}

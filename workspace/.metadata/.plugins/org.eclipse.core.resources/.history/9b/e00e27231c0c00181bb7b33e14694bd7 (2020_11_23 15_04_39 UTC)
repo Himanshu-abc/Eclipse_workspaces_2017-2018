@@ -1,0 +1,61 @@
+package byHimanshu;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/Register")
+public class Register extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+   
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		
+		String username = request.getParameter("name");
+		String password =request.getParameter("password");
+		String email=request.getParameter("email");
+		String country=request.getParameter("country");
+		
+		String url="jdbc:oracle:thin:@localhost:1521:xe";
+		String user="system";
+		String passwor="apocalypse";
+		
+		try {
+			Class.forName("oracle.jdbc.OracleDriver");
+			
+			Connection con=DriverManager.getConnection(url, user, passwor);
+			
+			PreparedStatement pst=con.prepareStatement("insert into registeruser values (?,?,?,?)");
+			
+			pst.setString(1, username);
+			pst.setString(2, password);
+			pst.setString(3, email);
+			pst.setString(4, country);
+			
+			int i=pst.executeUpdate();
+			
+			out.println("after execute");
+			
+			if(i>0) {
+				out.println("data successfully entered into table");
+			}
+			else {
+				out.println("Some error");
+			}
+			
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+		out.close();
+	}
+}

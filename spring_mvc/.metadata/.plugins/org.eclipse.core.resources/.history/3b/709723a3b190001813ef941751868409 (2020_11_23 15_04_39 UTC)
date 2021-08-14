@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+   
+       xsi:schemaLocation="http://www.springframework.org/schema/mvc
+           http://www.springframework.org/schema/mvc/spring-mvc.xsd
+           http://www.springframework.org/schema/beans 
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd">
+               
+     <context:component-scan base-package="com.app.bean_and_controller"></context:component-scan>
+     
+     <mvc:annotation-drivens />
+     <context:annotation-config/>
+     
+     <!-- <mvc:resources location="com.app.bean_and_controller.StudentController" mapping="StudentFor"></mvc:resources> -->
+     <mvc:interceptors>
+     
+     <bean class="com.app.bean_and_controller.DayOfTheWeekBasedAccessInterceptor"/>
+     </mvc:interceptors>
+     
+     <bean id="ViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+     <property name="prefix" value="/WEB-INF/"></property>
+     <property name="suffix" value=".jsp"></property>
+     </bean>
+     
+     <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+     
+     <property name="basename" value="/WEB-INF/studentmessages"></property>
+     </bean>
+     
+</beans>

@@ -1,0 +1,19 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+	
+		try {
+	  Runtime app=Runtime.getRuntime();
+	  
+	  //open notepad
+	  app.exec("notepad++");
+	  
+		}catch (Exception e) {
+		e.printStackTrace();
+		}
+	}
+	}

@@ -1,0 +1,30 @@
+package pract;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		int arr[]= {23,0,-32,45,76,24,00,-23,-456,98,0,-9};
+		int l=arr.length;
+		int temp=0;
+		for(int i=0;i<l;i++) {
+			
+			for(int j=i+1;j<l;j++) {
+				
+				if(arr[i]>arr[j]) {
+					temp=arr[i];
+					arr[i]=arr[j];
+					arr[j]=temp;
+				}
+			}
+		}
+		for(int a=0;a<l;a++) {
+			System.out.print(arr[a]+" ");
+		}
+		System.out.println();
+		System.out.println("smallest element is "+arr[0]);
+		System.out.println("second smallest element is "+arr[1]);
+		System.out.println("largest element is "+arr[l-1]);
+		System.out.println("second largest element "+arr[l-2]);
+	}
+	}

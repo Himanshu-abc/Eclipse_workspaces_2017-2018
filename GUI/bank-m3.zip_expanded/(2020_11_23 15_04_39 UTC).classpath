@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bank-m3/1/project/BankClients"/>
+	<classpathentry kind="src" path="bank-m3/1/project/BankServer"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

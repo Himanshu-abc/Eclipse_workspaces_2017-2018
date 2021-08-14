@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;bank_e.GuiAcc.java&apos; to &apos;GuiAccTest.java&apos;&#x0D;&#x0A;- Original project: &apos;bank_e&apos;&#x0D;&#x0A;- Original element: &apos;bank_e.GuiAcc.java&apos;&#x0D;&#x0A;- Renamed element: &apos;bank_e.GuiAccTest.java&apos;" description="Rename compilation unit &apos;GuiAcc.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;bank_e{GuiAcc.java" name="GuiAccTest.java" references="false" stamp="1522697775893" version="1.0"/>
+</session>

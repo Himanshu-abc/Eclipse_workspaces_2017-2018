@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="personBean" class="spring_5.Person">
+    
+       <property name="name" value="Mohan"></property>
+       
+       <property name="friends">
+       <list>
+       <value>Ramesh</value>
+       <value>Suresh</value>
+       </list>
+       </property>
+       
+       <property name="emails">
+       <list>
+       <value>Ramesh@email.com</value>
+       <value>Suresh@email.com</value>
+       </list>
+       </property>
+       
+       <property name="accounts">
+       <map>
+       <entry key="A10101" value="2345.78"></entry>
+       <entry key="A33490" value="90890.08"></entry>
+       </map>
+       </property>
+       
+       <property name="education">
+       <props>
+       <prop key="BE-CS">890</prop>
+       <prop key="BE-ME">Grade A</prop>
+       </props>
+       </property>
+       
+       <property name="cars">
+       <list>
+       <ref bean="carBean1"/>
+       <ref bean="carBean2"/>
+       </list>
+       </property>
+    </bean>
+
+    <bean id="carBean1" class="spring_5.Car">
+    <property name="Model" value="BMW"></property>
+    <property name="color" value="black"></property>
+    </bean>
+    
+    <bean id="carBean2" class="spring_5.Car">
+    <property name="Model" value="A-Star"></property>
+    <property name="Color" value="White"></property>
+    </bean>
+
+    <!-- more bean definitions go here -->
+
+</beans>

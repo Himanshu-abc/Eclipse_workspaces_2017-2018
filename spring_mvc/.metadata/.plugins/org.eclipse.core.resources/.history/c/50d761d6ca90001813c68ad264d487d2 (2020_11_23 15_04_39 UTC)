@@ -1,0 +1,24 @@
+package com.app.entity;
+
+public class City {
+	
+	private String cityValue;
+	private String cityCode;
+	
+	public String getCityValue() {
+		return cityValue;
+	}
+	public void setCityValue(String cityValue) {
+		this.cityValue = cityValue;
+	}
+	public String getCityCode() {
+		return cityCode;
+	}
+	public void setCityCode(String cityCode) {
+		this.cityCode = cityCode;
+	}
+	@Override
+	public String toString() {
+		return "City [cityValue=" + cityValue + ", cityCode=" + cityCode + "]";
+	}
+}

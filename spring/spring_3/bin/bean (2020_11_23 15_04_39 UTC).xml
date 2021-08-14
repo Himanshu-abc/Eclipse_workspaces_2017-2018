@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    <bean id="xBean" class="p2.X">
+        <property name="message" value="A message from X"></property>
+    </bean>
+    
+    <bean id="a" class="p2.A">
+    <property name="roll" value="101"></property>
+    
+    <property name="name" value="Manoj Singh"></property>
+    
+    <property name="dataObj" ref="xBean"></property>
+    </bean>
+
+</beans>

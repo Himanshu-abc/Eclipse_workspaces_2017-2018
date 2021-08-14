@@ -1,0 +1,18 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		// sorting of strings
+		
+		System.out.println("enter the number of strngs");
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int n=sc.nextInt();
+		
+	}
+	}

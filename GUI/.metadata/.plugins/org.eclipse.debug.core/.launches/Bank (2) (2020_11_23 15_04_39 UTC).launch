@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/bank_e3_copy/Banking System via ODBC/Bank Application/Bank/Bank/MyBank/Bank.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Bank"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="bank_e3_copy"/>
+</launchConfiguration>

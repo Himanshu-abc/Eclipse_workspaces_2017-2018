@@ -1,0 +1,36 @@
+package com.app.entity;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.ModelAndView;
+
+@RestController
+public class EmployeeRestControler {
+
+	@RequestMapping(value="/form" , method=RequestMethod.GET)
+	public ModelAndView function1() {
+		
+		Employee emp=new Employee();
+		ModelAndView mav=new ModelAndView("form","emp",emp);
+		
+		String[] hobbies=new String[] {"cricket","football","hockey","chess","tennis"
+				,"other outdoor games","other indoor games"};
+		
+		mav.addObject("hbs",hobbies);
+		
+		List<String> dept=new ArrayList<>();
+		dept.add("accounts");
+		dept.add("technical");
+		dept.add("infrastructure");
+		dept.add("help");
+		dept.add("security");
+		
+		mav.addObject("dept", dept);
+		
+		return mav;
+	}
+}

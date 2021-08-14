@@ -1,0 +1,19 @@
+package pract;
+
+public class Second {
+
+	public static String generateOTP() {
+		
+		int random=(int)(Math.random()*9000)+1000;
+		String r = String.valueOf(random);
+		return r;
+	}
+	
+	public static void main(String[] args) {
+		
+		// generate otp
+		String otp=generateOTP();
+        System.out.println("otp = "+otp);
+	}
+
+}

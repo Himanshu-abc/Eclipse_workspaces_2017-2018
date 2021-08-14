@@ -1,0 +1,16 @@
+package com.app.entity;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+@Controller
+public class EmployeeRestControler {
+	
+	@RequestMapping(value="/employees",method=RequestMethod.GET)
+	public void function1() {
+		
+		
+	}
+
+}

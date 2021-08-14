@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=10
+org.eclipse.jdt.core.compiler.compliance=10
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=10
+org.eclipse.jdt.core.userLibrary.hibernate_annotation=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/annotation/ejb3-persistence.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/annotation/hibernate-annotations.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/annotation/hibernate-commons-annotations.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.hibernate_core=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/antlr-2.7.6.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/commons-collections-3.1.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/dom4j-1.6.1.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/hibernate3.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/hibernate-cglib-repack-2.1_3.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/javassist-3.4.GA.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/jta-1.1.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/log4j.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/mysql-connector-java-5.1.16-bin.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/slf4j-api-1.5.2.jar"/>\r\n\t<archive path\="E\:/Campus training/hibernate_1/hib3/slf4j-log4j12.jar"/>\r\n</userlibrary>\r\n

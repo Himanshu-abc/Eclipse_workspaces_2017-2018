@@ -1,0 +1,31 @@
+package pract;
+
+import java.util.Scanner;
+
+public class Practise16 {
+
+	public static void main(String[] args) {
+		
+		// highest common divisor
+		
+		System.out.println("enter two numbers");
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int n1=sc.nextInt();
+		int n2=sc.nextInt();
+		
+		int min=Math.min(n1, n2);
+		int max=Math.max(n1, n2);
+		
+		int gcd=0;
+		
+		for(int i=min;i>0;i--) {
+			if(max%i==0 && min%i==0) {
+				gcd=i;
+				break;
+			}
+		}
+		System.out.println(gcd+" is greatest common divisor");
+	}
+	}

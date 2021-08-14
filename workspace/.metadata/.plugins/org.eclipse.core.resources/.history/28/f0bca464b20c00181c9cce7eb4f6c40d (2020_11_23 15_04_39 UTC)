@@ -1,0 +1,48 @@
+package byHimanshu;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/First")
+public class First extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		
+		String spageid=request.getParameter("page");
+		int pageid=Integer.parseInt(spageid);
+		
+		int total=5;
+		
+		if(pageid==1) {}
+		
+		else {
+			 pageid=pageid-1;
+			 pageid=(pageid*total)+1;
+		}
+		List<Employee> el =EmployeeDao.fetch(pageid, total);
+		 
+		 out.println("<h3>records of page "+spageid+"</h3>");
+		 
+		 out.println("<table border='1' cellpadding='4' width='60%'></table>");
+		 
+		 out.println("<tr><th>Id</th> <th>Name</th> <th>Salary</th> </tr>");
+		 
+		 for(Employee ee:el) {
+			
+	     out.println("<tr><td>"+ee.getId()+"</td> <td>"+ee.getName()+"</td> <td>"+ee.getSalary()+"</td> </tr>");
+	     
+		 }
+		 out.println("</table>");
+	}
+}

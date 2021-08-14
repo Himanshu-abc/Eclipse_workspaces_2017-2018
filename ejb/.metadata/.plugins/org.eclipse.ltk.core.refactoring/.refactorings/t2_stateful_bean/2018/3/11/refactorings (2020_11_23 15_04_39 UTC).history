@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;list&apos; in &apos;ejbpackage.ListElements&apos; to &apos;values&apos;&#x0D;&#x0A;- Original project: &apos;t2_stateful_bean&apos;&#x0D;&#x0A;- Original element: &apos;ejbpackage.ListElements.list&apos;&#x0D;&#x0A;- Renamed element: &apos;ejbpackage.ListElements.values&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;list&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;ejbpackage{ListElements.java[ListElements^list" name="values" references="true" setter="false" stamp="1520953998120" textual="false" version="1.0"/>
+</session>
